@@ -28,4 +28,7 @@ This project analyses students' academic performances using the [Student Perform
 
 ## References
 
-...
+https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets
+https://www.tensorflow.org/tutorials/structured_data/imbalanced_data
+https://stackoverflow.com/questions/64800003/seaborn-confusion-matrix-heatmap-2-color-schemes-correct-diagonal-vs-wrong-re
+https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/
