@@ -32,3 +32,5 @@ This project analyses students' academic performances using the [Student Perform
 - https://www.tensorflow.org/tutorials/structured_data/imbalanced_data
 - https://stackoverflow.com/questions/64800003/seaborn-confusion-matrix-heatmap-2-color-schemes-correct-diagonal-vs-wrong-re
 - https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/
+- https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+- https://www.datacamp.com/tutorial/understanding-logistic-regression-python
