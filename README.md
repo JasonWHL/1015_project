@@ -6,7 +6,9 @@ This project analyses students' academic performances using the [Student Perform
 
 ## Contributors
 
-...
+- Basadzishvili Archil - GBM
+- Char Bao Jie - Data Extraction, Data Resampling, Logistic Regression
+- Jason Liu - Visualisation
 
 ## Problem Definition
 
@@ -20,11 +22,18 @@ This project analyses students' academic performances using the [Student Perform
 
 ## Conclusion
 
-...
+- Key determinants of influence include whether at least one parent has received formal education, the extent of the educational disparity between parents, whether the parents reside together, and the father's employment status
+- Logistic Regression yielded unsatisfactory results when applied to variables with nonlinear correlations.
+- Gradient Boosting Machine (GBM) did not demonstrate effective performance due to the limited size of our dataset.
+- There is sufficient accuracy to predict whether a student will perform well academically possibly
 
 ## What did we learn from this project?
 
-...
+- Addressing the imbalance in datasets by employing resampling techniques through the imbalanced-learn (imblearn) package.
+- Logistic Regression from sklearn
+- Gradient Boosting Machines (GBM), XGBoost, LightGBM, CatBoost
+- Collaboration on GitHub
+- Application and utility of Precision, Recall, and F1 Score.
 
 ## References
 
