@@ -34,3 +34,5 @@ This project analyses students' academic performances using the [Student Perform
 - https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/
 - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 - https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+- https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/
+- https://medium.com/@ilyurek/gradient-boosting-machines-gbm-with-python-example-b65421d10f2a
