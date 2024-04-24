@@ -25,7 +25,7 @@ This project analyses students' academic performances using the [Student Perform
 - Key determinants of influence include whether at least one parent has received formal education, the extent of the educational disparity between parents, whether the parents reside together, and the father's employment status
 - Logistic Regression yielded unsatisfactory results when applied to variables with nonlinear correlations.
 - Gradient Boosting Machine (GBM) did not demonstrate effective performance due to the limited size of our dataset.
-- There is sufficient accuracy to predict whether a student will perform well academically possibly
+- There is sufficient accuracy to predict whether a student will perform well academically.
 
 ## What did we learn from this project?
 
